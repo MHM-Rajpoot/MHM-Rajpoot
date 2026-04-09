@@ -79,22 +79,12 @@ I enjoy turning ideas into real systems — from **data collection and model tra
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,sql,bash" />
-</p>
+Python • JavaScript • TypeScript • C++ • Java • SQL • Bash
 
 ---
 
 ### 🤖 AI / Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-AA4A44?style=flat"/>
-  <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat"/>
-</p>
+TensorFlow • PyTorch • Scikit-learn • XGBoost • LightGBM
 
 - Deep Learning, CNNs, Vision Transformers
 - NLP, Transformers, LLMs, RAG Systems
@@ -105,17 +95,7 @@ I enjoy turning ideas into real systems — from **data collection and model tra
 ---
 
 ### 🧠 LLM / GenAI Engineering
-<p>
-  <img src="https://img.shields.io/badge/LangChain-black?style=flat"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-purple?style=flat"/>
-  <img src="https://img.shields.io/badge/HuggingFace-yellow?style=flat&logo=huggingface"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/FAISS-blue?style=flat"/>
-  <img src="https://img.shields.io/badge/ChromaDB-ff69b4?style=flat"/>
-  <img src="https://img.shields.io/badge/Pinecone-00BFFF?style=flat"/>
-</p>
+LangChain • LlamaIndex • Hugging Face • FAISS • ChromaDB • Pinecone
 
 - Retrieval-Augmented Generation (RAG)
 - Vector Search & Embeddings
@@ -124,16 +104,7 @@ I enjoy turning ideas into real systems — from **data collection and model tra
 ---
 
 ### 📊 Data Engineering
-<p>
-  <img src="https://skillicons.dev/icons?i=pandas,mysql,postgres" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=flat&logo=snowflake"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark"/>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow"/>
-  <img src="https://img.shields.io/badge/Kafka-black?style=flat"/>
-</p>
+Pandas • MySQL • PostgreSQL • Snowflake • Apache Spark • Airflow • Kafka
 
 - ETL / ELT Pipelines
 - Data Warehousing & Lakehouse
@@ -143,14 +114,7 @@ I enjoy turning ideas into real systems — from **data collection and model tra
 ---
 
 ### ⚙️ MLOps & Deployment
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/MLflow-blue?style=flat"/>
-  <img src="https://img.shields.io/badge/DVC-purple?style=flat"/>
-</p>
+Docker • Kubernetes • Git • GitHub Actions • MLflow • DVC
 
 - CI/CD for ML
 - Model Deployment & Monitoring
@@ -159,9 +123,7 @@ I enjoy turning ideas into real systems — from **data collection and model tra
 ---
 
 ### 🌐 Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,express" />
-</p>
+Django • Flask • FastAPI • Node.js • Express
 
 - REST APIs
 - Microservices Architecture
@@ -170,9 +132,7 @@ I enjoy turning ideas into real systems — from **data collection and model tra
 ---
 
 ### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
+React • HTML • CSS • Tailwind
 
 - Interactive Dashboards
 - UI/UX for Data Products
@@ -180,9 +140,7 @@ I enjoy turning ideas into real systems — from **data collection and model tra
 ---
 
 ### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
-</p>
+AWS • Azure • GCP
 
 - AWS (EC2, S3, Lambda)
 - Azure ML
@@ -191,12 +149,7 @@ I enjoy turning ideas into real systems — from **data collection and model tra
 ---
 
 ### 🧪 Research & Tools
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat"/>
-  <img src="https://img.shields.io/badge/Matplotlib-black?style=flat"/>
-  <img src="https://img.shields.io/badge/Jupyter-orange?style=flat"/>
-</p>
+NumPy • SciPy • Matplotlib • Jupyter
 
 - Experiment Design
 - Statistical Analysis
