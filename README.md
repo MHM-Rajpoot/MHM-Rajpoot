@@ -28,7 +28,6 @@
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a> -->
 </p>
----
 
 ## 🧰 Technologies I Work With
 
