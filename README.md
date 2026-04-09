@@ -8,7 +8,7 @@
 <p align="center">
 🎓 MSc Artificial Intelligence — University of Salford <br>
 📍 Manchester, United Kingdom <br>
-🚀 AI Engineer | Data Engineer | Full Stack Developer
+🚀 AI Researcher | Data Engineer | Full Stack Developer
 </p>
 
 ---
