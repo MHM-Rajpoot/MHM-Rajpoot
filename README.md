@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=1000&lines=Muhammad+Hassan+Mukhtar;AI+Researcher+%7C+Data+Engineer+%7C+Full+Stack+Developer;Building+Scalable+AI+Systems;LLMs+%7C+LangChain+%7C+RAG+%7C+AI+Agents;MCP+%7C+LlamaIndex+%7C+Vector+DBs+%7C+Tool+Calling" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=50&center=true&vCenter=true&width=1500&height=100&lines=Muhammad+Hassan+Mukhtar;AI+Researcher+%7C+Data+Engineer+%7C+Full+Stack+Developer;Building+Scalable+AI+Systems;LLMs+%7C+LangChain+%7C+RAG+%7C+AI+Agents;MCP+%7C+LlamaIndex+%7C+Vector+DBs+%7C+Tool+Calling" />
 </p>
 
 <h1 align="center">👋 Muhammad Hassan Mukhtar</h1>
