@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=1000&lines=Muhammad+Hassan+Mukhtar;AI+Researcher+%7C+Data+Engineer+%7C+Full+Stack+Developer;Building+Scalable+AI+Systems;LLMs+%7C+RAG+%7C+Data+Engineering+%7C+Full-Stack+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=1000&lines=Muhammad+Hassan+Mukhtar;AI+Researcher+%7C+Data+Engineer+%7C+Full+Stack+Developer;Building+Scalable+AI+Systems;LLMs+%7C+LangChain+%7C+RAG+%7C+AI+Agents;MCP+%7C+LlamaIndex+%7C+Vector+DBs+%7C+Tool+Calling" />
 </p>
 
 <h1 align="center">👋 Muhammad Hassan Mukhtar</h1>
@@ -57,7 +57,33 @@
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MCP-059669?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector%20DBs-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tool%20Calling-F97316?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge"/>
+</p>
+
 ---
+
+<table align="center">
+  <tr>
+    <td><img src="meta/gif%20%281%29.gif" alt="Profile GIF 1" width="170" /></td>
+    <td><img src="meta/gif%20%282%29.gif" alt="Profile GIF 2" width="170" /></td>
+    <td><img src="meta/gif%20%283%29.gif" alt="Profile GIF 3" width="170" /></td>
+    <td><img src="meta/gif%20%284%29.gif" alt="Profile GIF 4" width="170" /></td>
+    <td><img src="meta/gif%20%285%29.gif" alt="Profile GIF 5" width="170" /></td>
+  </tr>
+  <tr>
+    <td><img src="meta/gif%20%286%29.gif" alt="Profile GIF 6" width="170" /></td>
+    <td><img src="meta/gif%20%287%29.gif" alt="Profile GIF 7" width="170" /></td>
+    <td><img src="meta/gif%20%288%29.gif" alt="Profile GIF 8" width="170" /></td>
+    <td><img src="meta/gif%20%289%29.gif" alt="Profile GIF 9" width="170" /></td>
+    <td><img src="meta/gif%20%2810%29.gif" alt="Profile GIF 10" width="170" /></td>
+  </tr>
+</table>
 
 ## 🧠 About Me
 
@@ -66,21 +92,23 @@ I build **production-ready AI systems** that combine **research, engineering, an
 My work sits at the intersection of:
 
 - 🤖 Artificial Intelligence and Machine Learning
-- 🧠 NLP, LLMs, and RAG Systems
+- 🧠 NLP, LLMs, RAG, and Agentic AI
+- 🧩 AI Agents, MCP, and Tool Calling
 - 📊 Data Engineering and Scalable Pipelines
-- 🌐 Full Stack Development and APIs
+- 🌐 Full Stack Development, APIs, and Intelligent Apps
 - ☁️ Cloud, MLOps, and Deployment
 
-I enjoy turning ideas into real systems — from **data collection and model training** to **backend APIs, dashboards, and deployment-ready products**.
+I enjoy turning ideas into real systems — from **data collection and model training** to **RAG pipelines, agentic workflows, backend APIs, dashboards, and deployment-ready products**.
 
 ---
 
 ## 🎯 What I Bring
 
 - Strong blend of **AI research + software engineering**
-- Ability to build **end-to-end systems**, not just isolated models
-- Experience across **LLMs, computer vision, forecasting, NLP, and analytics**
-- Focus on **real-world applications**, scalability, and usability
+- Ability to build **end-to-end systems**, from data pipelines to agentic applications
+- Experience across **LLMs, RAG, AI agents, computer vision, NLP, forecasting, and analytics**
+- Familiarity with **tool calling, vector search, and MCP-connected workflows**
+- Focus on **real-world applications**, scalability, evaluation, and usability
 
 ---
 
@@ -103,11 +131,12 @@ TensorFlow • PyTorch • Scikit-learn • XGBoost • LightGBM
 ---
 
 ### 🧠 LLM / GenAI Engineering
-LangChain • LlamaIndex • Hugging Face • FAISS • ChromaDB • Pinecone
+LangChain • LlamaIndex • MCP • Hugging Face • FAISS • ChromaDB • Pinecone
 
 - Retrieval-Augmented Generation (RAG)
-- Vector Search & Embeddings
-- Prompt Engineering & LLM Optimization
+- AI Agents, Tool Calling, and Workflow Orchestration
+- Vector Search, Embeddings, and Context Pipelines
+- Prompt Engineering, Evals, and LLM Optimization
 
 ---
 
@@ -215,8 +244,9 @@ NumPy • SciPy • Matplotlib • Jupyter
 
 ## 🔭 Current Focus
 
-- Scalable LLM and RAG systems
-- AI-powered web applications
+- Agentic AI, LLM, and RAG systems
+- MCP-integrated tools and workflow orchestration
+- AI-powered web applications and APIs
 - Data engineering for intelligent systems
 - Research-to-production AI workflows
 
