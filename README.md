@@ -253,17 +253,6 @@ NumPy • SciPy • Matplotlib • Jupyter
 
 ---
 
-## 🌍 Connect With Me
-
-<p align="center">
-  <a href="mailto:mhmrajpoot101@gmail.com">Email</a> •
-  <a href="https://github.com/MHM-Rajpoot">GitHub</a> •
-  <a href="#">LinkedIn</a> •
-  <a href="#">Portfolio</a>
-</p>
-
----
-
 ## ⚡ Personal Edge
 
 > I build **production-ready AI systems** — not just models.
