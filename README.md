@@ -70,18 +70,19 @@
 
 <table align="center">
   <tr>
-    <td><img src="meta/gif%20%281%29.gif" alt="Profile GIF 1" width="170" /></td>
-    <td><img src="meta/gif%20%282%29.gif" alt="Profile GIF 2" width="170" /></td>
-    <td><img src="meta/gif%20%283%29.gif" alt="Profile GIF 3" width="170" /></td>
-    <td><img src="meta/gif%20%284%29.gif" alt="Profile GIF 4" width="170" /></td>
-    <td><img src="meta/gif%20%285%29.gif" alt="Profile GIF 5" width="170" /></td>
+    <td align="center" width="180"><img src="meta/gif%20%281%29.gif" alt="Profile GIF 1" width="170" /></td>
+    <td align="center" width="180"><img src="meta/gif%20%282%29.gif" alt="Profile GIF 2" width="170" /></td>
+    <td align="center" width="180"><img src="meta/gif%20%283%29.gif" alt="Profile GIF 3" width="170" /></td>
   </tr>
   <tr>
-    <td><img src="meta/gif%20%286%29.gif" alt="Profile GIF 6" width="170" /></td>
-    <td><img src="meta/gif%20%287%29.gif" alt="Profile GIF 7" width="170" /></td>
-    <td><img src="meta/gif%20%288%29.gif" alt="Profile GIF 8" width="170" /></td>
-    <td><img src="meta/gif%20%289%29.gif" alt="Profile GIF 9" width="170" /></td>
-    <td><img src="meta/gif%20%2810%29.gif" alt="Profile GIF 10" width="170" /></td>
+    <td align="center" width="180"><img src="meta/gif%20%284%29.gif" alt="Profile GIF 4" width="170" /></td>
+    <td align="center" width="180"><img src="meta/gif%20%285%29.gif" alt="Profile GIF 5" width="170" /></td>
+    <td align="center" width="180"><img src="meta/gif%20%286%29.gif" alt="Profile GIF 6" width="170" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="180"><img src="meta/gif%20%287%29.gif" alt="Profile GIF 7" width="170" /></td>
+    <td align="center" width="180"><img src="meta/gif%20%288%29.gif" alt="Profile GIF 8" width="170" /></td>
+    <td align="center" width="180"><img src="meta/gif%20%289%29.gif" alt="Profile GIF 9" width="170" /></td>
   </tr>
 </table>
 
@@ -249,6 +250,17 @@ NumPy • SciPy • Matplotlib • Jupyter
 - AI-powered web applications and APIs
 - Data engineering for intelligent systems
 - Research-to-production AI workflows
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="mailto:mhmrajpoot101@gmail.com">Email</a> •
+  <a href="https://github.com/MHM-Rajpoot">GitHub</a> •
+  <a href="#">LinkedIn</a> •
+  <a href="#">Portfolio</a>
+</p>
 
 ---
 
