@@ -1,12 +1,12 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=50&center=true&vCenter=true&width=1500&height=100&lines=Muhammad+Hassan+Mukhtar;AI+Researcher+%7C+Data+Engineer+%7C+Full+Stack+Developer;Building+Scalable+AI+Systems;LLMs+%7C+LangChain+%7C+RAG+%7C+AI+Agents;MCP+%7C+LlamaIndex+%7C+Vector+DBs+%7C+Tool+Calling" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=50&center=true&vCenter=true&width=1500&height=100&lines=AI+Researcher+%7C+Data+Engineer+%7C+Full+Stack+Developer;Building+Scalable+AI+Systems;LLMs+%7C+LangChain+%7C+RAG+%7C+AI+Agents;MCP+%7C+LlamaIndex+%7C+Vector+DBs+%7C+Tool+Calling" />
 </p>
 
-<h1 align="center"> Muhammad Hassan Mukhtar</h1>
+<h1 align="center">Muhammad Hassan Mukhtar</h1>
 
 <p align="center">
-   MSc Artificial Intelligence  University of Salford <br>
+  MSc Artificial Intelligence - University of Salford <br>
    Manchester, United Kingdom <br>
    <b>AI Researcher | Data Engineer | Full Stack Developer</b>
 </p>
@@ -29,7 +29,7 @@
   </a> -->
 </p>
 
-##  Technologies I Work With
+## Technologies I Work With
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,js,ts,react,nodejs,express,html,css,tailwind" />
@@ -93,24 +93,24 @@
 </table>
 <!-- GIF-GALLERY:END -->
 
-##  About Me
+## About Me
 
 I build **production-ready AI systems** that combine **research, engineering, and deployment**.
 
 My work sits at the intersection of:
 
--  Artificial Intelligence and Machine Learning
--  NLP, LLMs, RAG, and Agentic AI
--  AI Agents, MCP, and Tool Calling
--  Data Engineering and Scalable Pipelines
--  Full Stack Development, APIs, and Intelligent Apps
--  Cloud, MLOps, and Deployment
+- Artificial Intelligence and Machine Learning
+- NLP, LLMs, RAG, and Agentic AI
+- AI Agents, MCP, and Tool Calling
+- Data Engineering and Scalable Pipelines
+- Full Stack Development, APIs, and Intelligent Apps
+- Cloud, MLOps, and Deployment
 
-I enjoy turning ideas into real systems  from **data collection and model training** to **RAG pipelines, agentic workflows, backend APIs, dashboards, and deployment-ready products**.
+I enjoy turning ideas into real systems, from **data collection and model training** to **RAG pipelines, agentic workflows, backend APIs, dashboards, and deployment-ready products**.
 
 ---
 
-##  What I Bring
+## What I Bring
 
 - Strong blend of **AI research + software engineering**
 - Ability to build **end-to-end systems**, from data pipelines to agentic applications
@@ -120,15 +120,15 @@ I enjoy turning ideas into real systems  from **data collection and model traini
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
-###  Languages
-Python  JavaScript  TypeScript  C++  Java  SQL  Bash
+### Languages
+Python, JavaScript, TypeScript, C++, Java, SQL, Bash
 
 ---
 
-###  AI / Machine Learning
-TensorFlow  PyTorch  Scikit-learn  XGBoost  LightGBM
+### AI / Machine Learning
+TensorFlow, PyTorch, Scikit-learn, XGBoost, LightGBM
 
 - Deep Learning, CNNs, Vision Transformers
 - NLP, Transformers, LLMs, RAG Systems
@@ -138,8 +138,8 @@ TensorFlow  PyTorch  Scikit-learn  XGBoost  LightGBM
 
 ---
 
-###  LLM / GenAI Engineering
-LangChain  LlamaIndex  MCP  Hugging Face  FAISS  ChromaDB  Pinecone
+### LLM / GenAI Engineering
+LangChain, LlamaIndex, MCP, Hugging Face, FAISS, ChromaDB, Pinecone
 
 - Retrieval-Augmented Generation (RAG)
 - AI Agents, Tool Calling, and Workflow Orchestration
@@ -148,8 +148,8 @@ LangChain  LlamaIndex  MCP  Hugging Face  FAISS  ChromaDB  Pinecone
 
 ---
 
-###  Data Engineering
-Pandas  MySQL  PostgreSQL  Snowflake  Apache Spark  Airflow  Kafka
+### Data Engineering
+Pandas, MySQL, PostgreSQL, Snowflake, Apache Spark, Airflow, Kafka
 
 - ETL / ELT Pipelines
 - Data Warehousing & Lakehouse
@@ -158,8 +158,8 @@ Pandas  MySQL  PostgreSQL  Snowflake  Apache Spark  Airflow  Kafka
 
 ---
 
-###  MLOps & Deployment
-Docker  Kubernetes  Git  GitHub Actions  MLflow  DVC
+### MLOps & Deployment
+Docker, Kubernetes, Git, GitHub Actions, MLflow, DVC
 
 - CI/CD for ML
 - Model Deployment & Monitoring
@@ -167,8 +167,8 @@ Docker  Kubernetes  Git  GitHub Actions  MLflow  DVC
 
 ---
 
-###  Backend & APIs
-Django  Flask  FastAPI  Node.js  Express
+### Backend & APIs
+Django, Flask, FastAPI, Node.js, Express
 
 - REST APIs
 - Microservices Architecture
@@ -176,16 +176,16 @@ Django  Flask  FastAPI  Node.js  Express
 
 ---
 
-###  Frontend
-React  HTML  CSS  Tailwind
+### Frontend
+React, HTML, CSS, Tailwind
 
 - Interactive Dashboards
 - UI/UX for Data Products
 
 ---
 
-###  Cloud & DevOps
-AWS  Azure  GCP
+### Cloud & DevOps
+AWS, Azure, GCP
 
 - AWS (EC2, S3, Lambda)
 - Azure ML
@@ -193,8 +193,8 @@ AWS  Azure  GCP
 
 ---
 
-###  Research & Tools
-NumPy  SciPy  Matplotlib  Jupyter
+### Research & Tools
+NumPy, SciPy, Matplotlib, Jupyter
 
 - Experiment Design
 - Statistical Analysis
@@ -202,46 +202,46 @@ NumPy  SciPy  Matplotlib  Jupyter
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
-###  RAG Chatbot
-- Built an end-to-end pipeline: scraping  embeddings  retrieval  LLM
+### RAG Chatbot
+- Built an end-to-end pipeline: scraping -> embeddings -> retrieval -> LLM
 - Designed for grounded question answering using domain-specific content
 - Tech: `LangChain` `ChromaDB` `Transformers` `Python`
 
 ---
 
-###  MRI Reconstruction
+### MRI Reconstruction
 - Converted 1D MRI signals into 2D maps
 - Applied deep learning techniques for medical imaging workflows
 - Focused on bridging signal processing with visual reconstruction
 
 ---
 
-###  Pneumonia Detection
+### Pneumonia Detection
 - Built a hybrid CNN + Vision Transformer approach
 - Applied Grad-CAM explainability for more interpretable predictions
 - Focused on data-efficient medical imaging classification
 
 ---
 
-###  Emotion Detection
+### Emotion Detection
 - Extracted MFCC and spectral features from audio
 - Built ML-based classification pipeline for emotion recognition
 - Combined feature engineering with model evaluation
 
 ---
 
-##  Experience
+## Experience
 
--  **Data Engineer**  Quadrant Insights
--  **Full Stack Developer**  CBS
--  **Research Assistant**  University of Salford
--  **Data Analyst**  Digicare
+- **Data Engineer** - Quadrant Insights
+- **Full Stack Developer** - CBS
+- **Research Assistant** - University of Salford
+- **Data Analyst** - Digicare
 
 ---
 
-##  Certifications
+## Certifications
 
 - IBM RAG & Agentic AI
 - Microsoft AI Product Manager
@@ -250,7 +250,7 @@ NumPy  SciPy  Matplotlib  Jupyter
 
 ---
 
-##  Current Focus
+## Current Focus
 
 - Agentic AI, LLM, and RAG systems
 - MCP-integrated tools and workflow orchestration
@@ -260,11 +260,11 @@ NumPy  SciPy  Matplotlib  Jupyter
 
 ---
 
-##  Personal Edge
+## Personal Edge
 
-> I build **production-ready AI systems**  not just models.
+> I build **production-ready AI systems**, not just models.
 
- Focus:
+Focus:
 - Scalable AI
 - Real-world deployment
 - End-to-end systems
