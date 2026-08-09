@@ -69,7 +69,7 @@
 ---
 
 <!-- GIF-GALLERY:START -->
-<table>
+<table align="center">
   <tr>
     <td align="center" width="180"><img src="meta/gif%20(1).gif" alt="Profile GIF 1" width="170"></td>
     <td align="center" width="180"><img src="meta/gif%20(2).gif" alt="Profile GIF 2" width="170"></td>
